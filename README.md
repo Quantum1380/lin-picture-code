@@ -8,4 +8,4 @@
 
 ## 项目架构图
 
-![image](image\img.png)
+![image](image/img.png)
